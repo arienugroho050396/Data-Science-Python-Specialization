@@ -1,5 +1,4 @@
-# Data-Science-Python-Specialization
-
+![This is an image](https://github.com/arienugroho050396/Data-Science-Python-Specialization/blob/main/header.png)
 # Outline
 ## Introduction to DS Python
 - Functions
