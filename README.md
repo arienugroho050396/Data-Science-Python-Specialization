@@ -2,7 +2,7 @@
 # Outline
 ## Introduction to DS Python
 - Functions
-- Types and Sequences
+- Types and Sequences 
 - More on Strings
 - Reading and Writing CSV files 
 - Dates and Times
